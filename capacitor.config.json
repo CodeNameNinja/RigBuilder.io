@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RigBuilder.io",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

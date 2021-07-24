@@ -1,0 +1,7 @@
+{
+  "name": "RigBuilder.io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
